@@ -1,6 +1,6 @@
 👋 Hi, I'm Bianca 
 
-🎓 I'm a Computational Cognitive Science student passionate about the fascinating world of data. 
+🎓 I'm a Computational Cognitive Science student passionate about data. 
 
 🔍 My interests include:
    📊 Data analysis and visualization
