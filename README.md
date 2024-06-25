@@ -10,4 +10,4 @@
 💻 Here you'll find my projects on:
   🫀Biomedical signal processing in MATLAB
   📊Database analysis and data simulation
-  🤖Machine learning applications in medicine 
+  🤖Machine learning applications in medicine
